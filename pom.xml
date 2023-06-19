@@ -8,9 +8,9 @@
         <version>2.7.12</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.example</groupId>
+    <groupId>com.github.mantranminh</groupId>
     <artifactId>simple-log</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>simple-log</name>
     <description>simple-log</description>
     <properties>
